@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sutirtha paul
 - 👀 I’m interested in coding, animation and cricket
 - 🌱 I’m currently learning Blockchain and willing to complete by march 2025
+- ✨ My current skills are c,python , frontend(Html,css, js , React)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via linkedin,insta or facebook(all the links are given)
 - 😄 Pronouns: He/Him
