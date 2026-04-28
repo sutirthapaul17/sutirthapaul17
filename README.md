@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 👋 Hi, I’m Sutirtha paul<br>- 👀 I’m interested in coding, animation and cricket<br>- 🌱 I’m currently learning Blockchain and willing to complete by Feb 2025<br>- ✨ My current skills are c,python , frontend(Html,css, js , React)<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 You can reach me via linkedin,insta or facebook(all the links are given)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I want to be a content creator as a part time but not getting the time to start
+ - 👋 Hi, I’m Sutirtha paul<br>- 👀 I’m interested in coding, animation and cricket<br>- 🌱 I’m currently learning Spring Boot<br>- ✨ My current skills are c,python , frontend(Html,css, js , React),Blockchain, Backend(Node.js,Express.js,Spring Boot)<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 You can reach me via linkedin,insta or facebook(all the links are given)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I want to be a content creator as a part time but not getting the time to start
 
 
 ## 🌐 Socials:
